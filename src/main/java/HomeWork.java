@@ -1,3 +1,9 @@
+/**
+ * java1. HomeWorkTwo
+ *
+ * @author ZakharovVladimir
+ * @version 14.02.2022
+ */
 public class HomeWork {
     public static void main(String[] args) {
         printThreeWords();
